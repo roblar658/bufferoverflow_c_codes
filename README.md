@@ -8,4 +8,4 @@ Bruk NOP sleed med shell code i assembly
 
 ## Solution ctf_4.c
 
-Bruk NOP sleed med shell code i assembly til å nå død funksjon.
+Bruk NOP sleed,med shell code i assembly, til å nå død funksjon.
